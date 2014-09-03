@@ -8,10 +8,7 @@ public class TestDB {
 	
 	@org.junit.Before
 	public void testIni(){
-		
-		
-		
-		
+		int val = 0;
 	}
 
 	@org.junit.Test

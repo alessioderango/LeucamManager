@@ -9,6 +9,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="WebContent/lib/antlr-2.7.6.jar"/>
 	<classpathentry kind="lib" path="WebContent/lib/aopalliance-1.0.jar"/>
 	<classpathentry kind="lib" path="WebContent/lib/aspectj-1.7.4.jar"/>
@@ -59,6 +60,5 @@
 	<classpathentry kind="lib" path="WebContent/lib/spring-webmvc-3.2.4.RELEASE.jar"/>
 	<classpathentry kind="lib" path="WebContent/lib/spring-webmvc-portlet-3.2.4.RELEASE.jar"/>
 	<classpathentry kind="lib" path="WebContent/lib/sqltool.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
